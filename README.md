@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m remideroussent<br>🌱 I’m currently learning C<br>👀 I’m looking to collaborate on make money<br>📫 How to reach me: remi.deroussent@epitech.eu<br>
+👋 Hi, I’m remideroussent
+🌱 I’m currently learning C
+👀 I’m looking to collaborate on make money
+📫 How to reach me: remi.deroussent@epitech.eu
 
 
 ## ![github](https://img.icons8.com/?size=30&id=106562&format=png&color=000000) **Languages and tools :**
