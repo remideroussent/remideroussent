@@ -2,7 +2,7 @@
 👋 Hi, I’m remideroussent<br>🌱 I’m currently learning C<br>👀 I’m looking to collaborate on make money<br>📫 How to reach me: remi.deroussent@epitech.eu<br>
 
 
-# 💻 Tech Stack:
+github Languages and tools :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=remideroussent&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
