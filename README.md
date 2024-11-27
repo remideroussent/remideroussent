@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m remideroussent  
+- 👋 Hi, I’m Remi Deroussent 
 - 💞️ I'm a student at Epitech  
 - 🌱 I’m currently learning C 
 - 📫 How to reach me: remi.deroussent@epitech.eu  
