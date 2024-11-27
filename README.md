@@ -2,7 +2,6 @@
 - 👋 Hi, I’m remideroussent
 - 💞️ I'm a student at Epitech
 - 🌱 I’m currently learning C
-- 👀 I’m looking to collaborate on make money
 - 📫 How to reach me: remi.deroussent@epitech.eu
 
 
