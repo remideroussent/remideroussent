@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m remideroussent  
 - 💞️ I'm a student at Epitech  
-- 🌱 I’m currently learning [C](https://devdocs.io/c/)  
+- 🌱 I’m currently learning C 
 - 📫 How to reach me: remi.deroussent@epitech.eu  
 
 ## ![github](https://img.icons8.com/?size=30&id=106562&format=png&color=000000) **Languages and tools :**
